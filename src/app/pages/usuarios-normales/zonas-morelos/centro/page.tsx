@@ -5,7 +5,7 @@ import ButtonBack from "@/app/components/ButtonBack";
 
 export default function ZonaCentroPage() {
     return (
-        <div className="mt-5 flex flex-col justify-center items-center">
+        <div className="mt-5 p-6 flex flex-col justify-center items-center">
             <BaseLogo />
             <ButtonBack />
             <NormalUsersComponentZonaCentro />

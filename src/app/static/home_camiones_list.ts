@@ -57,7 +57,7 @@ export const listaCamionesNormalUserZonaCentro: Camiones_usuarios_normales_zona_
       imagen_camion: "/ruta_2.png",
       route: "/rutas/zona_centro/ruta_2",
       estilos:
-        "bg-blue-50 rounded-2xl uppercase font-bold text-[20px] text-blue-600",
+        "bg-blue-100 rounded-2xl uppercase font-bold text-[20px] text-blue-600",
     },
     {
       nombre_camion: "Ruta 3",
